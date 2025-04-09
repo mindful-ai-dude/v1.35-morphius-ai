@@ -581,9 +581,5 @@ The React Server Components (RSC) implementation of AI SDK was used in versions 
 
 For more information about choosing between AI SDK UI and RSC, see the [official documentation](https://sdk.vercel.ai/docs/getting-started/navigating-the-library#when-to-use-ai-sdk-rsc).
 
-## 📦 Open Source vs Cloud Offering
-
-Morphius is open source software available under the Apache-2.0 license.
-
 
 
